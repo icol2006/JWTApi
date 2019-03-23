@@ -1,0 +1,14 @@
+C:\Users\Maykol\Documents\Software deveploment\VB .NET\ClientJWTApi\ClientJWTApi\bin\Debug\ClientJWTApi.exe.config
+C:\Users\Maykol\Documents\Software deveploment\VB .NET\ClientJWTApi\ClientJWTApi\bin\Debug\ClientJWTApi.exe
+C:\Users\Maykol\Documents\Software deveploment\VB .NET\ClientJWTApi\ClientJWTApi\bin\Debug\ClientJWTApi.pdb
+C:\Users\Maykol\Documents\Software deveploment\VB .NET\ClientJWTApi\ClientJWTApi\bin\Debug\ClientJWTApi.xml
+C:\Users\Maykol\Documents\Software deveploment\VB .NET\ClientJWTApi\ClientJWTApi\obj\Debug\ClientJWTApi.vbprojResolveAssemblyReference.cache
+C:\Users\Maykol\Documents\Software deveploment\VB .NET\ClientJWTApi\ClientJWTApi\obj\Debug\ClientJWTApi.Form1.resources
+C:\Users\Maykol\Documents\Software deveploment\VB .NET\ClientJWTApi\ClientJWTApi\obj\Debug\ClientJWTApi.Resources.resources
+C:\Users\Maykol\Documents\Software deveploment\VB .NET\ClientJWTApi\ClientJWTApi\obj\Debug\ClientJWTApi.vbproj.GenerateResource.Cache
+C:\Users\Maykol\Documents\Software deveploment\VB .NET\ClientJWTApi\ClientJWTApi\obj\Debug\ClientJWTApi.exe
+C:\Users\Maykol\Documents\Software deveploment\VB .NET\ClientJWTApi\ClientJWTApi\obj\Debug\ClientJWTApi.xml
+C:\Users\Maykol\Documents\Software deveploment\VB .NET\ClientJWTApi\ClientJWTApi\obj\Debug\ClientJWTApi.pdb
+C:\Users\Maykol\Documents\Software deveploment\VB .NET\ClientJWTApi\ClientJWTApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maykol\Documents\Software deveploment\VB .NET\ClientJWTApi\ClientJWTApi\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Maykol\Documents\Software deveploment\VB .NET\ClientJWTApi\ClientJWTApi\bin\Debug\Newtonsoft.Json.xml

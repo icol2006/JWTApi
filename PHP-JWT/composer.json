@@ -1,0 +1,13 @@
+{
+    "name": "maykol/php-jwt",
+    "authors": [
+        {
+            "name": "maykokl",
+            "email": "maykolxx@gmail.com"
+        }
+    ],
+    "require": {
+	  "firebase/php-jwt": "*",
+    "firebase/token-generator": "*"
+	}
+}
