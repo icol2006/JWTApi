@@ -1,0 +1,17 @@
+CREATE DATABASE `db_clientes` /*!40100 DEFAULT CHARACTER SET utf8 */;
+use  db_clientes;
+
+CREATE TABLE `tb_persona` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `nombre` varchar(200) DEFAULT NULL,
+  `direccion` varchar(500) DEFAULT NULL,
+  `email` varchar(200) DEFAULT NULL,
+  `telefono` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=36 DEFAULT CHARSET=utf8;
+
+INSERT INTO `db_clientes`.`tb_persona` (`nombre`, `direccion`, `email`, `telefono`) VALUES ('n1', 'd1', 'e1', '1');
+INSERT INTO `db_clientes`.`tb_persona` (`nombre`, `direccion`, `email`, `telefono`) VALUES ('n2', 'd2', 'e2', '2');
+INSERT INTO `db_clientes`.`tb_persona` (`nombre`, `direccion`, `email`, `telefono`) VALUES ('n3', 'd3', 'e3', '3');
+INSERT INTO `db_clientes`.`tb_persona` (`nombre`, `direccion`, `email`, `telefono`) VALUES ('n4', 'd4', 'e4', '4');
+INSERT INTO `db_clientes`.`tb_persona` (`nombre`, `direccion`, `email`, `telefono`) VALUES ('n5', 'd5', 'e5', '5');
